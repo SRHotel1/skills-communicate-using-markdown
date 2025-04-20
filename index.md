@@ -6,3 +6,8 @@
 #### Soothing Aloe
 ##### Pear
 ###### Benefitsof using Jergens
+# Add a code block
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
